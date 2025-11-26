@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/chethan356/Programming/Lead_FlowAI/mlruns/928310366484007687/6fe85171a18e4e74bded7a3302ab8865/artifacts
+end_time: 1764142782318
+entry_point_name: ''
+experiment_id: '928310366484007687'
+lifecycle_stage: active
+run_id: 6fe85171a18e4e74bded7a3302ab8865
+run_name: colorful-fish-46
+run_uuid: 6fe85171a18e4e74bded7a3302ab8865
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764142780731
+status: 3
+tags: []
+user_id: chethan356
